@@ -1,0 +1,15 @@
+{
+    "architecture": "all",
+    "description": "description of balloon",
+    "framework": "ubuntu-sdk-14.10-dev2",
+    "hooks": {
+        "balloon": {
+            "apparmor": "balloon.apparmor",
+            "desktop": "balloon.desktop"
+        }
+    },
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "name": "com.ubuntu.developer.liu-xiao-guo.balloon",
+    "title": "balloon",
+    "version": "0.1"
+}

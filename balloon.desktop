@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=balloon
+Exec=qmlscene $@ main.qml
+Icon=balloon.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
